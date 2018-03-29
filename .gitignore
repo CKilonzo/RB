@@ -1,3 +1,4 @@
 DTRA
-*.Rproj
+*.Rproj*
 .Rhistory
+
